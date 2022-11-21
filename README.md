@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nileena23
-- 👀 I’m interested in ... learning ne things
+- 👀 I’m interested in ... learning new things
 - 🌱 I’m currently learning ... html and css
 - 💞️ I’m looking to collaborate on ... github
 - 📫 How to reach me ...
